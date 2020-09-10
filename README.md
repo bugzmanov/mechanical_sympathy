@@ -12,6 +12,7 @@
 
 * [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686) - how to build modern computer with boolean logic gate, step by step.
 * [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) - not really fundamentals, but covers most of hardware aspects, starting from concepts and ending with performance tunning for every hardware type.
+* [Book: Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 
 #### Videos
 
@@ -60,3 +61,7 @@
 * [Book: Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services](https://www.amazon.com/Guerrilla-Capacity-Planning-Tactical-Applications/dp/3540261389)
 * [Book: Analyzing Computer System Performance with Perl::PDQ](https://www.amazon.com/gp/product/B00FC99QUO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 * [Book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://www.amazon.com/Performance-Modeling-Design-Computer-Systems)
+
+## Misc
+
+* [Curated list about computer architecture](https://github.com/MattPD/cpplinks/blob/master/comparch.md)
