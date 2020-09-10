@@ -45,7 +45,7 @@
 ## Networking
 
 * [Book: Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
-* [High Performance Browser Networking](https://hpbn.co/) - reads like computer networking down-to-top. But more focused on the most recent developments, while not diving deep into fundamentals
+* [Book: High Performance Browser Networking](https://hpbn.co/) - reads like "computer networking, but down-to-top approach". More focused on the most recent developments, while not diving too deep into fundamentals
 * [Article: How to Calculate TCP throughput for long distance WAN links](http://bradhedlund.com/2008/12/19/how-to-calculate-tcp-throughput-for-long-distance-links/)
 * [Twitter thread on TCP optimizations](https://threadreaderapp.com/thread/1099086415671877633.html)
 * [Paper: Fundamental Limits of Online Network-Caching](https://arxiv.org/abs/2003.14085)
