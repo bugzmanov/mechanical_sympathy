@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/502482/92668997-502cdb80-f2de-11ea-8f30-f38b9849d8d8.png" alt="Love thy hardware" width="40%">
 </p>
 
-# Curated list of resources about hardware for software developer
+# Curated list of resources about hardware for software developers
 
 > The term Mechanical Sympathy was coined by racing driver Jackie Stewart and applied to software by Martin Thompson. Jackie Stewart said, “You don’t have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy.” He meant that understanding how a car works makes you a better driver. This is just as true for writing code. You do need to understand how the hardware works and take that into consideration when you design software. 
 >
