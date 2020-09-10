@@ -28,7 +28,7 @@
 * [Book: Is Parallel Programming Hard, And, If So,What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2019.12.22a.pdf)
 * [Paper: Locating  Cache  Performance  Bottlenecks  Using  Data  Profiling](https://people.csail.mit.edu/nickolai/papers/pesterev-dprof.pdf)
 * [Paper: Performance Tuning for Low-Latency Applications](https://s3-eu-west-1.amazonaws.com/aitusoftware-doc-public/downloads/PerformanceTuningHandbook.pdf)
-
+* [Paper: Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/~paulmck/scalability/paper/whymb.2009.04.05a.pdf)
 #### Videos
 
 * [Presentation: Understanding CPU Microarchitecture to Increase Performance](https://www.infoq.com/presentations/microarchitecture-modern-cpu/)
@@ -39,6 +39,7 @@
 
 ## Disks
 * Chapter 9 in [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) is great
+* [Blog posts series: Conding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/) - meh. but gives you the basics
 
 ## Networking
 
