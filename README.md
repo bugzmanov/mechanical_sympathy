@@ -19,8 +19,8 @@
 
 ## RAM 
 
-* [Paper: What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf) (+ [what has changed](https://stackoverflow.com/questions/8126311/what-every-programmer-should-know-about-memory) ) - covers everything there is to know for software people
-* [Article: Memory Bandwidth. Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/) - benchmarking of RAM throughput and comparison of results with theoretical limits. 
+* [Paper: What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf) (+ [what has changed](https://stackoverflow.com/questions/8126311/what-every-programmer-should-know-about-memory) ) - covers everything there is to know for software people. After reading this paper [DDR4 spec](https://en.wikipedia.org/wiki/DDR4_SDRAM#Modules) looks less intimidating. 
+* [Article: Memory Bandwidth. Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/) - how to benchmark RAM throughput and how is it in comparison with theoretical limits. 
 
 ## CPU
 
