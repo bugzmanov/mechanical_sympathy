@@ -1,2 +1,57 @@
-# mechanical_sympathy
-Curated list of resources dedicated to hardware and low level design
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/502482/92668997-502cdb80-f2de-11ea-8f30-f38b9849d8d8.png" alt="Love thy hardware" width="40%">
+</p>
+
+# Curated list of resources about hardware for software developer
+
+> The term Mechanical Sympathy was coined by racing driver Jackie Stewart and applied to software by Martin Thompson. Jackie Stewart said, “You don’t have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy.” He meant that understanding how a car works makes you a better driver. This is just as true for writing code. You do need to understand how the hardware works and take that into consideration when you design software. (from [here](https://dzone.com/articles/mechanical-sympathy))
+
+## Fundamentals
+
+* [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
+
+### Videos
+
+* [From NAND gates to tetris](https://www.coursera.org/learn/build-a-computer) - a course based on the "elements of computer systems" book
+
+## RAM 
+
+* [Paper: What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf) (+ [what has changed](https://stackoverflow.com/questions/8126311/what-every-programmer-should-know-about-memory) ) - covers everything there is to know for software people
+* [Article: Memory Bandwidth. Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/) - benchmarking of RAM throughput and comparison of results with theoretical limits. 
+
+## CPU
+
+* [Reference Book: Intel® 64 and IA-32 ArchitecturesOptimization Reference Manual](https://software.intel.com/content/dam/develop/public/us/en/documents/64-ia-32-architectures-optimization-manual.pdf)
+* [Book: Is Parallel Programming Hard, And, If So,What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2019.12.22a.pdf)
+* [Paper: Locating  Cache  Performance  Bottlenecks  Using  Data  Profiling](https://people.csail.mit.edu/nickolai/papers/pesterev-dprof.pdf)
+* [Paper: Performance Tuning for Low-Latency Applications](https://s3-eu-west-1.amazonaws.com/aitusoftware-doc-public/downloads/PerformanceTuningHandbook.pdf)
+
+### Videos
+
+* [Presentation: Understanding CPU Microarchitecture to Increase Performance](https://www.infoq.com/presentations/microarchitecture-modern-cpu/)
+
+## GPU
+
+* [Book: Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) - everything you need to know about GPU
+
+## Disks
+
+## Networking
+
+* [Book: Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
+* [Article: How to Calculate TCP throughput for long distance WAN links](http://bradhedlund.com/2008/12/19/how-to-calculate-tcp-throughput-for-long-distance-links/)
+* [Twitter thread on TCP optimizations](https://threadreaderapp.com/thread/1099086415671877633.html)
+* [Paper: Fundamental Limits of Online Network-Caching](https://arxiv.org/abs/2003.14085)
+
+## Performance tunning 
+
+* [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
+* [Long article: Theoretical performance guide](http://sled.rs/perf)
+* [Book: Every Computer Performance Book: How to Avoid and Solve Performance Problems  on The Computers You Work With](https://www.amazon.com/gp/product/1482657759/)
+
+## Performance analysis
+
+* [Book: The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling](https://www.amazon.com/Art-Computer-Systems-Performance-Analysis/dp/0471503363)
+* [Book: Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services](https://www.amazon.com/Guerrilla-Capacity-Planning-Tactical-Applications/dp/3540261389)
+* [Book: Analyzing Computer System Performance with Perl::PDQ](https://www.amazon.com/gp/product/B00FC99QUO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+* [Book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://www.amazon.com/Performance-Modeling-Design-Computer-Systems)
