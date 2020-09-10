@@ -40,7 +40,7 @@
 
 ## Disks
 * Chapter 9 in [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) is great
-* [Blog posts series: Conding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/) - meh. but gives you the basics
+* [Blog posts series: Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/) - meh. but gives you the basics
 
 ## Networking
 
