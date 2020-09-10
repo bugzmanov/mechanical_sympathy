@@ -8,9 +8,10 @@
 
 ## Fundamentals
 
-* [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
+* [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686) - how to build modern computer with boolean logic gate, step by step.
+* [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) - not really fundamentals, but covers most of hardware aspects, starting from concepts and ending with performance tunning for every hardware type.
 
-### Videos
+#### Videos
 
 * [From NAND gates to tetris](https://www.coursera.org/learn/build-a-computer) - a course based on the "elements of computer systems" book
 
@@ -26,7 +27,7 @@
 * [Paper: Locating  Cache  Performance  Bottlenecks  Using  Data  Profiling](https://people.csail.mit.edu/nickolai/papers/pesterev-dprof.pdf)
 * [Paper: Performance Tuning for Low-Latency Applications](https://s3-eu-west-1.amazonaws.com/aitusoftware-doc-public/downloads/PerformanceTuningHandbook.pdf)
 
-### Videos
+#### Videos
 
 * [Presentation: Understanding CPU Microarchitecture to Increase Performance](https://www.infoq.com/presentations/microarchitecture-modern-cpu/)
 
@@ -35,6 +36,7 @@
 * [Book: Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) - everything you need to know about GPU
 
 ## Disks
+* Chapter 9 in [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) is great
 
 ## Networking
 
