@@ -34,6 +34,10 @@
 
 * [Presentation: Understanding CPU Microarchitecture to Increase Performance](https://www.infoq.com/presentations/microarchitecture-modern-cpu/)
 
+#### Misc:
+
+* [Excellent article on Load average by Brendan Gregg](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+
 ## GPU
 
 * [Book: Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) - everything you need to know about GPU
