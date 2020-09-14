@@ -17,6 +17,7 @@
 #### Videos
 
 * [From NAND gates to tetris](https://www.coursera.org/learn/build-a-computer) - a course based on the "elements of computer systems" book
+* [Cliff Click - A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=5ZOuCuGrw48)
 
 ## RAM 
 
