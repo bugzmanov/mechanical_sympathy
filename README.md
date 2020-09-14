@@ -24,6 +24,10 @@
 * [Paper: What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf) (+ [what has changed](https://stackoverflow.com/questions/8126311/what-every-programmer-should-know-about-memory) ) - covers everything there is to know for software people. After reading this paper [DDR4 spec](https://en.wikipedia.org/wiki/DDR4_SDRAM#Modules) looks less intimidating. 
 * [Article: Memory Bandwidth. Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/) - how to benchmark RAM throughput and how is it in comparison with theoretical limits. 
 
+#### Videos
+
+* [The Trouble with Memory](https://www.recallact.com/presentation/trouble-memory)
+
 ## CPU
 
 * [Reference Book: Intel® 64 and IA-32 ArchitecturesOptimization Reference Manual](https://software.intel.com/content/dam/develop/public/us/en/documents/64-ia-32-architectures-optimization-manual.pdf)
@@ -61,12 +65,18 @@
 * [Long article: Theoretical performance guide](http://sled.rs/perf)
 * [Book: Every Computer Performance Book: How to Avoid and Solve Performance Problems  on The Computers You Work With](https://www.amazon.com/gp/product/1482657759/)
 
+#### Videos: 
+* [Peddle the Pedal to the Metal](https://www.infoq.com/presentations/programming-c-efficient-scalable-software/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=development)
+
 ## Performance analysis
 
 * [Book: The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling](https://www.amazon.com/Art-Computer-Systems-Performance-Analysis/dp/0471503363)
 * [Book: Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services](https://www.amazon.com/Guerrilla-Capacity-Planning-Tactical-Applications/dp/3540261389)
 * [Book: Analyzing Computer System Performance with Perl::PDQ](https://www.amazon.com/gp/product/B00FC99QUO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 * [Book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://www.amazon.com/Performance-Modeling-Design-Computer-Systems)
+
+#### Videos:
+* [MAP6264 - Queueing Theory](https://www.youtube.com/playlist?list=PL59NBu6N8dUqYClaKpoozyzK3Kpcm5eou)  + [textbook](http://www.cse.fau.edu/~bob/courses/map6264/)
 
 ## Misc
 
