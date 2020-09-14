@@ -81,3 +81,5 @@
 ## Misc
 
 * [Curated list about computer architecture](https://github.com/MattPD/cpplinks/blob/master/comparch.md)
+
+![image](https://user-images.githubusercontent.com/502482/93082792-8a400980-f65f-11ea-9ece-24bc79d152c7.png)
