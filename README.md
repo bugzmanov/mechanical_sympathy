@@ -65,6 +65,7 @@
 * [Long article: Theoretical performance guide](http://sled.rs/perf)
 * [Book: Every Computer Performance Book: How to Avoid and Solve Performance Problems  on The Computers You Work With](https://www.amazon.com/gp/product/1482657759/)
 * [Paper: I/O Is Faster Than the CPU – Let’s Partition Resourcesand Eliminate (Most) OS Abstractions](https://penberg.org/parakernel-hotos19.pdf)
+* [Article: Performance Anti-Patterns ](https://queue.acm.org/detail.cfm?id=1117403)
 
 #### Videos: 
 * [Peddle the Pedal to the Metal](https://www.infoq.com/presentations/programming-c-efficient-scalable-software/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=development)
