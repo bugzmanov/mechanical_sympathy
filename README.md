@@ -35,6 +35,8 @@
 * [Paper: Locating  Cache  Performance  Bottlenecks  Using  Data  Profiling](https://people.csail.mit.edu/nickolai/papers/pesterev-dprof.pdf)
 * [Paper: Performance Tuning for Low-Latency Applications](https://s3-eu-west-1.amazonaws.com/aitusoftware-doc-public/downloads/PerformanceTuningHandbook.pdf)
 * [Paper: Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/~paulmck/scalability/paper/whymb.2009.04.05a.pdf)
+* [Article: Modern MicroprocessorsA 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
+
 #### Videos
 
 * [Presentation: Understanding CPU Microarchitecture to Increase Performance](https://www.infoq.com/presentations/microarchitecture-modern-cpu/)
@@ -64,6 +66,7 @@
 * [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
 * [Long article: Theoretical performance guide](http://sled.rs/perf)
 * [Book: Every Computer Performance Book: How to Avoid and Solve Performance Problems  on The Computers You Work With](https://www.amazon.com/gp/product/1482657759/)
+* [Book: Performance analysis and tunning on modern CPUS](https://book.easyperf.net/perf_book)
 * [Paper: I/O Is Faster Than the CPU – Let’s Partition Resourcesand Eliminate (Most) OS Abstractions](https://penberg.org/parakernel-hotos19.pdf)
 * [Article: Performance Anti-Patterns ](https://queue.acm.org/detail.cfm?id=1117403)
 
