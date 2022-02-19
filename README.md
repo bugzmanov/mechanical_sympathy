@@ -13,11 +13,13 @@
 * [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686) - how to build modern computer with a boolean logic gate, step by step.
 * [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) - not really fundamentals, but covers most of hardware aspects, starting from concepts and ending with performance tunning for every hardware type.
 * [Book: Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
+* [Book: Understanding Software Dynamics] (https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing/dp/0137589735)
 
 #### Videos
 
 * [From NAND gates to tetris](https://www.coursera.org/learn/build-a-computer) - a course based on the "elements of computer systems" book
 * [Cliff Click - A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=5ZOuCuGrw48)
+* [Course: Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=schedule)
 
 ## RAM 
 
@@ -64,6 +66,7 @@
 ## Performance tunning 
 
 * [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
+* [E-Book: Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [Long article: Theoretical performance guide](http://sled.rs/perf)
 * [Book: Every Computer Performance Book: How to Avoid and Solve Performance Problems  on The Computers You Work With](https://www.amazon.com/gp/product/1482657759/)
 * [Book: Performance analysis and tunning on modern CPUS](https://book.easyperf.net/perf_book)
