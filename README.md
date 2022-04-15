@@ -13,7 +13,7 @@
 * [Book: The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686) - how to build modern computer with a boolean logic gate, step by step.
 * [Book: Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) - not really fundamentals, but covers most of hardware aspects, starting from concepts and ending with performance tunning for every hardware type.
 * [Book: Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
-* [Book: Understanding Software Dynamics] (https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing/dp/0137589735)
+* [Book: Understanding Software Dynamics](https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing/dp/0137589735)
 
 #### Videos
 
