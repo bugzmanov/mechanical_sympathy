@@ -28,7 +28,6 @@
 
 #### Videos
 
-* [The Trouble with Memory](https://www.recallact.com/presentation/trouble-memory)
 * [How does Computer Memory Work?](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
 
 ## CPU
