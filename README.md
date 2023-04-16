@@ -29,6 +29,7 @@
 #### Videos
 
 * [The Trouble with Memory](https://www.recallact.com/presentation/trouble-memory)
+* [How does Computer Memory Work?](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
 
 ## CPU
 
@@ -53,6 +54,7 @@
 
 ## Disks
 * Chapter 9 in [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) is great
+* [Fantastic SSD Internals and How to Learn and Use Them] (https://huaicheng.github.io/p/systor22-queenie.pdf)
 * [Blog posts series: Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/) - meh. but gives you the basics
 
 ## Networking
