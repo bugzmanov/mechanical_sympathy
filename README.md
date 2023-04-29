@@ -56,6 +56,9 @@
 * [Fantastic SSD Internals and How to Learn and Use Them](https://huaicheng.github.io/p/systor22-queenie.pdf)
 * [Blog posts series: Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/) - meh. but gives you the basics
 
+#### Videos
+* [Course on Modern SSDs](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_8qOM5Icpp8hB2SHtm4z57)
+
 ## Networking
 
 * [Book: Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
