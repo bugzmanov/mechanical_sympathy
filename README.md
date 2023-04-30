@@ -38,6 +38,7 @@
 * [Paper: Performance Tuning for Low-Latency Applications](https://s3-eu-west-1.amazonaws.com/aitusoftware-doc-public/downloads/PerformanceTuningHandbook.pdf)
 * [Paper: Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/~paulmck/scalability/paper/whymb.2009.04.05a.pdf)
 * [Article: Modern MicroprocessorsA 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
+* [Paper: Evaluating the Cost of Atomic Operations on Modern Architectures](https://arxiv.org/pdf/2010.09852.pdf)
 
 #### Videos
 
