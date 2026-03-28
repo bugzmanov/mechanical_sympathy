@@ -51,7 +51,6 @@
 ## GPU
 
 * [Book: Programming Massively Parallel Processors: A Hands-on Approach](https://a.co/d/0aWiUiWt)
-* 
 * [Book: Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) - everything you need to know about GPU
 * [Article: Building a Tiny GPU to Understand AI Hardware Engineering](https://levelup.gitconnected.com/building-a-tiny-gpu-to-understand-ai-hardware-engineering-62bb08f2d1d1)
 * [Course: Roadmap: Understanding GPU Architecture](https://cvw.cac.cornell.edu/gpu-architecture)
