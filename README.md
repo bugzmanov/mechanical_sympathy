@@ -51,6 +51,11 @@
 ## GPU
 
 * [Book: Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) - everything you need to know about GPU
+* [Article: Building a Tiny GPU to Understand AI Hardware Engineering](https://levelup.gitconnected.com/building-a-tiny-gpu-to-understand-ai-hardware-engineering-62bb08f2d1d1)
+
+#### Videos
+* [GPU Series](https://www.youtube.com/playlist?app=desktop&list=PLdyvVQvdoXlXwP8E2rBVR1uPP12X-rFV_)
+* [Fundamentals of GPU Architecture](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)
 
 ## Disks
 * Chapter 9 in [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) is great
